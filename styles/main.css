@@ -12,7 +12,7 @@
 }
 
 .header-hero {
-  background-image: url("/img/herobg.png");
+  background-image: url("../img/herobg.png");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
@@ -141,7 +141,7 @@
 }
 
 .section-us {
-  background-image: url("/img/bg2.png");
+  background-image: url("../img/bg2.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -239,7 +239,7 @@
 }
 
 .section-hotel1 {
-  background-image: url("/img/hotel1bg.png");
+  background-image: url("../img/hotel1bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -296,7 +296,7 @@
 }
 
 .section-hotel2 {
-  background-image: url("/img/hotel2bg.png");
+  background-image: url("../img/hotel2bg.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -348,7 +348,7 @@
 }
 
 .footer-hero {
-  background-image: url("/img/footer-hero.png");
+  background-image: url("../img/footer-hero.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
