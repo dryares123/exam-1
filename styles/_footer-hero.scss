@@ -1,0 +1,46 @@
+.footer-hero {
+    background-image: url("/img/footer-hero.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    &__header {
+        color: white;
+        font-size: 36px;
+        text-align: center;
+        padding-top: 125px;
+        font-family: 'Aleo', serif;
+        margin-bottom: 100px;
+    }
+}
+
+.card-footer {
+    background: #37332f;
+    padding: 45px 30px;
+    display: flex;
+    flex-direction: column;
+    float: right;
+    max-width: 540px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+    &__title {
+        font-size: 20px;
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 300;
+        text-align: left;
+        color: white;
+        margin-bottom: 40px;
+    }
+    &__quote {
+        color: blue;
+    }
+    &__description {
+        font-size: 20px;
+        font-family: 'Josefin Sans', sans-serif;
+        font-weight: 300;
+        text-align: left;
+        color: white;
+        line-height: 25px;
+    }
+}

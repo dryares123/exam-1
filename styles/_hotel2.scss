@@ -1,0 +1,46 @@
+.section-hotel2 {
+    background-image: url("/img/hotel2bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+}
+
+.card2 {
+    position: relative;
+    top: 230px;
+    background: #37332f;
+    padding: 45px 30px;
+    display: flex;
+    flex-direction: column;
+    float: right;
+    max-width: 540px;
+    color: white;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 300;
+}
+
+.card2__location {
+    margin-bottom: 30px;
+    opacity: 0.9;
+}
+
+.card2__title {
+    margin-bottom: 30px;
+    opacity: 0.9;
+    text-transform: uppercase;
+}
+
+.card2__subtitle {
+    margin-bottom: 40px;
+    opacity: 0.9;
+}
+
+.card2__btn {
+    background-color: #5474fd;
+    color: white;
+    padding: 24px 43px;
+    height: 60px;
+    width: 220px;
+    border: none;
+}
